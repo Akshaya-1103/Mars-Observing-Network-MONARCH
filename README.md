@@ -9,3 +9,4 @@ This repository contains the mission breakdown and key documentation for the **M
 - **Atmospheric Data Analysis** for weather forecasting and dust storm monitoring.
 - **Guidance, Navigation, and Control (GNC)** systems for accurate Mars mission trajectories.
 
+To know more about our mission design, click here to have a look at the [MONARCH IAC 2024 Presentation Poster](https://iac2024-iaf.ipostersessions.com/default.aspx?s=27-F4-6E-E8-AE-B7-1D-65-F2-80-B8-B8-E2-A9-BA-28)
